@@ -5,6 +5,8 @@ INF-2310-Computer-Security
 
 This repository contains course materials and resources for the 3. assignment:
 
+# Building and Running: 
+
 # Members List
 
 - Håvard Skjærstein 
